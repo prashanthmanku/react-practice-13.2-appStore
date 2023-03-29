@@ -1,0 +1,23 @@
+/* Write your CSS here */
+button {
+  color: #7b8794;
+  font-size: 14px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  border: none;
+  padding-bottom: 4px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: transparent;
+  /* border-bottom: 1px solid #7b8794; */
+  cursor: pointer;
+  outline: none;
+}
+.tab-item-container {
+  border-bottom: 1px solid #7b8794;
+  border: normal;
+}
+.active-tab {
+  color: #2563eb;
+  border-bottom: 2px solid #2563eb;
+}
